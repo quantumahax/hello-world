@@ -1,6 +1,36 @@
-p {
+* {
+  padding: 0;
+  margin: 3px;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.title__text p {
+  display: inline-block;
 	font-size: 25px;
 	font-weight: 800;
 	border: 2px solid black;
 	padding: 5px;
+}
+
+.search a {
+  text-transform: uppercase;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: black;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.link__google {
+  margin-left: 20px;
+}
+
+.search {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
