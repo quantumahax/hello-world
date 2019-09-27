@@ -1,3 +1,3 @@
 # hello-world
-myFirstProject
-So
+first Project. Hi :)
+meeting with git <3
